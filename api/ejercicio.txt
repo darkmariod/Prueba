@@ -1,0 +1,5 @@
+Crea una API REST en Python (usando FastAPI y API ROUTER) que tenga los siguientes
+endpoints:
+• GET /tasks: Devuelve una lista de tareas.
+• POST /tasks: Recibe los datos de una nueva tarea y la agrega a la lista (almacenada
+en memoria o archivo).
