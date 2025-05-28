@@ -1,5 +1,0 @@
-Crea un componente React que:
-• Muestre una lista de tareas (con las propiedades: id, description, status).
-• Permita agregar una nueva tarea (usando un formulario).
-• Permita marcar una tarea como completada (actualizando el status).
-• Utiliza state y simula la persistencia en el almacenamiento local del navegador.
