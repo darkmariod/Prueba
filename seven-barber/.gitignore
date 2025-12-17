@@ -1,0 +1,14 @@
+credentials.json
+env# Entorno virtual
+env/
+.venv/
+
+# Credenciales sensibles
+credentials.json
+
+# Archivos de entorno
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
