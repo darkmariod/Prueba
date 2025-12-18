@@ -1,0 +1,39 @@
+/* ================= SERVICIOS ================= */
+.service-card {
+    padding: 18px;
+    border-radius: 16px;
+    background: #f7f7f7;
+    margin-bottom: 18px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 30px rgba(0,0,0,0.10);
+}
+
+.service-card h4 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.service-card p {
+    margin: 6px 0 10px 0;
+    color: #555;
+    font-size: 14px;
+}
+
+.service-card span {
+    font-weight: 700;
+    font-size: 15px;
+    color: #111;
+}
+
+/* ================= TITULOS ================= */
+.section-title {
+    font-size: 26px;
+    font-weight: 800;
+    margin-bottom: 22px;
+}
